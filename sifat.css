@@ -1,0 +1,101 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+/* style nav */
+.nav{
+	display: block;
+	padding: 20px;
+	text-align: center;
+	background-color: aqua;
+}
+a{
+	margin:0px 30px;
+	text-decoration: none;
+	font-size: 20px;
+	color:#F653A6;
+	
+}
+.nav a:hover{
+	background-color: aquamarine;
+	border-radius: 40px;
+	
+}
+/* style profile */
+.profile{
+	margin:0px;
+	padding: 0px;
+background-color: black;
+}
+.profile h1{
+text-align: center;
+color: #81D8D0;
+}
+.profile h3{
+	text-align: center;
+	color:#FDD5B1;
+}
+.profile p{
+	text-align: center;
+	color: #11df89f2;
+}
+.profile img{
+	width: 200px;
+	border-radius: 50%;
+	display: block;
+	margin: 0px auto;
+}
+/* style skile */
+.skile h2{
+text-align: center;
+}
+.sk{
+	display: block;
+	margin: 0px auto;
+}
+/* Html */
+.html{
+	border: 1px solid gray;
+	width: 120px;
+	border-radius: 20px;
+	background-color:rgba(212, 144, 19, 0.735);
+}
+.html img{
+	margin:0px 30px;
+}
+.html p{
+	text-align: center;
+}
+.html h4{
+	text-align: center;
+}
+/* css */
+.html{
+	border: 1px solid gray;
+	width: 120px;
+	border-radius: 20px;
+	background-color:rgba(212, 144, 19, 0.735);
+	float: left;
+	margin:0px 20px;
+}
+.css img{
+	margin:0px 50%px;
+}
+.css p{
+	text-align: center;
+}
+.css h4{
+	text-align: center;
+}
+.bd{
+	padding: 50px;
+	margin:0px 30px;
+}
+.sk{
+	padding:0px 40px;
+}
+.color h2{
+	font-size: 30px;
+	color:burlywood;
+}
+
